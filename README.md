@@ -7,9 +7,10 @@
 
 ## Preparing a bootable USB device
 
-- If you are using a Microsoft OS, follow the details available at https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows
-- If you are using a Posix OS, follow the details available at https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu
-- If you are using a Mac OS, follow the details available at https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos
+- Go to releases on Github and download the latest stable release. Alpha and Beta releases are for development and testing purposes only and it is disadvised to use them for any purpose other than code review
+- If you are using a Microsoft OS, follow the details available at https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows.
+- If you are using a Posix OS, follow the details available at https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu.
+- If you are using a Mac OS, follow the details available at https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos.
 
 ## Booting and launching the installation
 
